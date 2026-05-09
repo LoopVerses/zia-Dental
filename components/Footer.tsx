@@ -179,8 +179,7 @@ export function Footer() {
             </p>
           </div>
           <p className="text-xs text-dental-white/55">
-            Made with <span className="text-rose-400">♥</span> in Islamabad
-          </p>
+            Made with <span className="text-rose-400">Loopverses</span> Technologies          </p>
         </div>
       </div>
     </footer>
